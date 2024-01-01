@@ -1,6 +1,6 @@
 # Twitter_sentimental_analysis
 
-Sentimental analysis using RoBERTa
+Sentimental analysis using RoBERTa.
 RoBERTa stands for Robustly Optimized BERT Pre-training Approach. It was presented by researchers at Facebook and Washington University.
 The goal of this paper was to optimize the training of BERT architecture in order to take lesser time during pre-training.
 
