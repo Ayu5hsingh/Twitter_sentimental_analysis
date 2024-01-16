@@ -7,7 +7,7 @@ The goal of this paper was to optimize the training of BERT architecture in orde
 Steps to run the code
 1) run tweety.py 
 2) Give the hashtag
-3) Give the date from where you want the tweeet
+3) Give the date from where you want the tweet
 4) Your tweets will be scraped and downloaded in the same directory
 5) Now, open sentimental analysis and just run the model.
 
